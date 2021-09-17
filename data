@@ -1,0 +1,5 @@
+There is four collection datatypes
+1.List-Ordered,Changeable,allow duplicate
+2.Tuple-Ordered,Unchangeable,allow duplicate
+3.Set-Unordered,Unindexed,No duplicate
+4.Dictionary-Unordered,Changeable,indexed,no duplicate
